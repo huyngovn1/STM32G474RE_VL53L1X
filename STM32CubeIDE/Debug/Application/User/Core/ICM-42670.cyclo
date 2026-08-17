@@ -1,0 +1,17 @@
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_spi.h:371:22:LL_SPI_Enable	1
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_spi.h:918:26:LL_SPI_IsActiveFlag_RXNE	2
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_spi.h:929:26:LL_SPI_IsActiveFlag_TXE	2
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_spi.h:980:26:LL_SPI_IsActiveFlag_BSY	2
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_spi.h:1348:25:LL_SPI_ReceiveData8	1
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_spi.h:1371:22:LL_SPI_TransmitData8	1
+../Application/User/Core/ICM-42670.c:7:6:delay	2
+../Application/User/Core/ICM-42670.c:35:9:spiTransfer	4
+../Application/User/Core/ICM-42670.c:60:6:ICM42670_Init	4
+../Application/User/Core/ICM-42670.c:94:6:SPI_ByteWrite	1
+../Application/User/Core/ICM-42670.c:105:15:SPI_ByteRead	1
+../Application/User/Core/ICM-42670.c:119:6:SPI_BytesRead	2
+../Application/User/Core/ICM-42670.c:131:11:MPUgetFIFOCount	1
+../Application/User/Core/ICM-42670.c:137:11:MPUresetFIFO	1
+../Application/User/Core/ICM-42670.c:147:9:MPU6000_Get_FIFO_Packets	15
+../Application/User/Core/ICM-42670.c:219:9:MPU6000_Get_INT	1
+../Application/User/Core/ICM-42670.c:232:9:MPUgetIntStatus	1

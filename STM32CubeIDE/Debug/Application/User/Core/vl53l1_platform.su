@@ -1,0 +1,13 @@
+../Application/User/Core/vl53l1_platform.c:57:6:VL53L1_SelectI2C	16	static
+../Application/User/Core/vl53l1_platform.c:66:8:VL53L1_RdByte	32	static
+../Application/User/Core/vl53l1_platform.c:73:8:VL53L1_RdWord	40	static
+../Application/User/Core/vl53l1_platform.c:82:8:VL53L1_RdDWord	40	static
+../Application/User/Core/vl53l1_platform.c:91:8:VL53L1_ReadMulti	48	static
+../Application/User/Core/vl53l1_platform.c:98:8:VL53L1_WrByte	32	static
+../Application/User/Core/vl53l1_platform.c:105:8:VL53L1_WrWord	40	static
+../Application/User/Core/vl53l1_platform.c:113:8:VL53L1_WrDWord	40	static
+../Application/User/Core/vl53l1_platform.c:121:8:VL53L1_WriteMulti	48	static
+../Application/User/Core/vl53l1_platform.c:165:9:VL53L1__Init	24	static
+../Application/User/Core/vl53l1_platform.c:211:9:VL53L1__GetDistance	32	static
+../Application/User/Core/vl53l1_platform.c:250:9:VL53L1__SetTimingBudget	24	static
+../Application/User/Core/vl53l1_platform.c:266:9:VL53L1__SetDistanceMode	24	static
